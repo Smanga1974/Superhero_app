@@ -50,8 +50,6 @@ The Superhero Gallery App is a simple, stylish web application that displays a g
 
 ## 📸 Screenshot
 
-_Add a screenshot of your app here!_
-
 ![image](https://github.com/user-attachments/assets/9aba8f97-9067-45b0-b576-ee7eb6c628b3)
 
 
