@@ -52,7 +52,8 @@ The Superhero Gallery App is a simple, stylish web application that displays a g
 
 _Add a screenshot of your app here!_
 
-## 🙌 Acknowledgments
+![image](https://github.com/user-attachments/assets/9aba8f97-9067-45b0-b576-ee7eb6c628b3)
+
 
 - Created by **Smangaliso Oageng** for the **FNB App Academy - Week 2** challenge.
 - Inspired by Avengers superheroes.
